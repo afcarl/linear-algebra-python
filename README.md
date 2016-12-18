@@ -1,5 +1,5 @@
-# linear-algebra-python
-python code for studying linear algebra
+# <i> Linear Algebra with Python </i>
+<i>python code for studying linear algebra</i>
 
 
 ## <i> Contents </i>
