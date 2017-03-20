@@ -12,4 +12,4 @@
 
 * <i> QR Decomposition with Givens Rotation</i>
 
-* <i> [Eigen Value Computation : Using Hessenberg QR iteration] (https://github.com/yunjey/linear-algebra-python/blob/master/eigen_value_computation.ipynb)</i>
+* <i> [Eigen Value Computation : Using Hessenberg QR iteration](https://github.com/yunjey/linear-algebra-python/blob/master/eigen_value_computation.ipynb)</i>
